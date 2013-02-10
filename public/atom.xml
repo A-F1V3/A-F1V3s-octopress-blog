@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2013-02-10T14:32:35-05:00</updated>
-  <id>http://yoursite.com/</id>
+  <title><![CDATA[Abnormal Position]]></title>
+  <link href="http://stark-falls-3063.herokuapp.com/atom.xml" rel="self"/>
+  <link href="http://stark-falls-3063.herokuapp.com/"/>
+  <updated>2013-02-10T15:15:53-05:00</updated>
+  <id>http://stark-falls-3063.herokuapp.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Adam Brown]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
