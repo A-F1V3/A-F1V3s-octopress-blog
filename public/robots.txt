@@ -1,4 +1,4 @@
-User-agent: *
-Disallow: 
+# www.robotstxt.org/
+# http://code.google.com/web/controlcrawlindex/
 
-Sitemap: http://stark-falls-3063.herokuapp.com/sitemap.xml 
+User-agent: *

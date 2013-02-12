@@ -2,18 +2,14 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://stark-falls-3063.herokuapp.com/blog/2013/02/10/my-first-ever-blog-post/</loc>
-        <lastmod>2013-02-10T22:13:28-05:00</lastmod>
+        <lastmod>2013-02-11T22:29:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://stark-falls-3063.herokuapp.com/blog/archives/</loc>
-        <lastmod>2013-02-10T22:13:28-05:00</lastmod>
+        <lastmod>2013-02-11T22:29:01-05:00</lastmod>
     </url>
     <url>
         <loc>http://stark-falls-3063.herokuapp.com/</loc>
-        <lastmod>2013-02-10T22:13:28-05:00</lastmod>
-    </url>
-    <url>
-        <loc>http://stark-falls-3063.herokuapp.com/robots.txt</loc>
-        <lastmod>2013-02-10T14:27:49-05:00</lastmod>
+        <lastmod>2013-02-11T22:29:01-05:00</lastmod>
     </url>
 </urlset>
